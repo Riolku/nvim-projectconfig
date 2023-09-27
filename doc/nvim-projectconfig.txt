@@ -4,7 +4,7 @@ Author:  Trieu Le <longtrieu.ls@live.com>
 License: Same terms as Vim itself (see |license|)
 
 
-Load config depend on current directory.
+Load config depending on the current directory.
 
 
 ABOUT                                           *nvim-projectconfig*
